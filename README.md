@@ -15,4 +15,5 @@
 ※アイコン利用するにしても、DriveかS3どちらかにまとめた方が良いだろう。
 
 ## Qiita
-- []()
+
+- [[GAS/GoogleCloudNaturalLanguageAPI]宇垣美里さんが時には厳しく、時には優しくしてくれるアメムチbot](https://qiita.com/IZUMIRU/private/f99c406838cf1b8a7032)
